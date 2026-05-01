@@ -3,7 +3,7 @@
 A team task management web app where users can create projects, assign tasks, and track progress with role-based access control.
 
 ## Live Demo
-- **Frontend:** https://taskarra.vercel.app/login
+- **Frontend:** taskarra-riya-aggarwal31072003s-projects.vercel.app
 - **Backend API:** https://taskarra-api.onrender.com
 
 ## Features
