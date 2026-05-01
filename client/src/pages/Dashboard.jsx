@@ -62,6 +62,25 @@ export default function Dashboard() {
           ))}
         </div>
       </div>
+{/* footer */}
+      <footer style={{
+        textAlign: 'center',
+        padding: '2rem',
+        marginTop: '3rem',
+        borderTop: '1px solid #e5e7eb',
+        color: '#9ca3af',
+        fontSize: '0.85rem'
+      }}>
+        Built with ❤️ by Riya Aggarwal &nbsp;|&nbsp;
+        
+          href="https://www.linkedin.com/in/riya-aggarwal-28429b260/"
+          target="_blank"
+          rel="noreferrer"
+          style={{ color: '#4f46e5', textDecoration: 'none', fontWeight: '500' }}
+        >
+          LinkedIn
+        </a>
+      </footer>
     </div>
   );
 }
