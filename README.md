@@ -19,7 +19,7 @@ A team task management web app where users can create projects, assign tasks, an
 ## Tech Stack
 
 **Frontend**
-- React (Vite)
+- React (Vite)s
 - React Router DOM
 - Axios
 - React Hot Toast
